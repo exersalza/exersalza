@@ -1,4 +1,4 @@
-I'm exersalza from Germany, I'm also a <a href="https://twitch.tv/exersalza">Twitch </a> streamer
+I'm exersalza from Germany, I'm also a <a href="https://twitch.tv/exersalza">Twitch </a> streamer. I am currently learning Python and JavaScript
 
 
 <p align=center>  
