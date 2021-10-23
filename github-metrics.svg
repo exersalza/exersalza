@@ -333,14 +333,14 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 23/10/2021, 22:11
+Last generated: 23/10/2021, 23:09
 </div>
 <div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>exersalza "Julian J."</b> registered=1y, uid=6102, gid=2
-  contributed to 19 repositories <b><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 19 repositories <b><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>5</b> users
 </div>
 <div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  282</b> commits
+  <b>  285</b> commits
   <b>    0</b> pull requests reviewed
   <b>   10</b> pull requests opened
   <b>   13</b> issues opened
@@ -358,22 +358,22 @@ Last generated: 23/10/2021, 22:11
 -r--  <b>   11</b>  watchers
 dr-x  <b>    0</b>  packages
 
-<span class="diff">@@ -1.53k +29.1k @@</span>
+<span class="diff">@@ -475 +27k @@</span>
 </div>
-<div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PY          </b> [####################] 96.06%
-<b>HTML        </b> [#                   ] 1.93 %
-<b>CSS         </b> [#                   ] 0.81 %
-<b>SHELL       </b> [#                   ] 0.69 %
-<b>LUA         </b> [#                   ] 0.52 %
+<div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PY          </b> [####################] 96.10%
+<b>HTML        </b> [#                   ] 1.91 %
+<b>CSS         </b> [#                   ] 0.80 %
+<b>SHELL       </b> [#                   ] 0.68 %
+<b>LUA         </b> [#                   ] 0.51 %
 </div>
 <div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># curl -I https://kenexar.eu</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://kenexar.eu
-<b>X-Performance</b>: 97%
+<b>X-Performance</b>: 98%
 <b>X-Accessibility</b>: 68%
 <b>X-Best-Practices</b>: 87%
 <b>X-SEO</b>: 70%
 </div>
-<footer>Connection reset by 134.228.174.124</footer></pre>
+<footer>Connection reset by 87.182.33.102</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
