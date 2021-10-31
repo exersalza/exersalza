@@ -333,7 +333,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 31 Oct 2021, 11:12:23
+Last generated: 31 Oct 2021, 12:09:45
 </div>
 <div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>exersalza "Julian J."</b> registered=1y, uid=6102, gid=2
   contributed to 19 repositories <b><span style="color:#ebedf0">#</span><span style="color:#03001c">#</span><span style="color:#ebedf0">#</span><span style="color:#fe9600">#</span><span style="color:#03001c">#</span><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#03001c">#</span><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -367,7 +367,7 @@ dr-x  <b>    0</b>  packages
 <b>LUA         </b> [#                   ] 0.49 %
 </div>
 <div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># curl -I </div><div class="stdout"><span class="error">API returned 429</span></div>
-<footer>Connection reset by 19.94.249.157</footer></pre>
+<footer>Connection reset by 29.96.37.92</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
