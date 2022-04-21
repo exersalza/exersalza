@@ -37,14 +37,14 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 21 Apr 2022, 10:17:46
+Last generated: 21 Apr 2022, 11:14:10
 </div>
 <div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>exersalza "Julian J."</b> registered=1y, uid=6102, gid=3
-  contributed to 32 repositories <b><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span></b>
+  contributed to 32 repositories <b><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span></b>
   followed by <b>6</b> users
 </div>
 <div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  867</b> commits
+  <b>  871</b> commits
   <b>    0</b> pull requests reviewed
   <b>   17</b> pull requests opened
   <b>   25</b> issues opened
@@ -62,18 +62,18 @@ Last generated: 21 Apr 2022, 10:17:46
 -r--  <b>   19</b>  watchers
 dr-x  <b>    0</b>  packages
 </div>
-<div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [##################  ] 88.73%
-<b>LUA         </b> [##                  ] 6.92 %
-<b>C#          </b> [#                   ] 1.75 %
-<b>HTML        </b> [#                   ] 1.43 %
-<b>CSS         </b> [#                   ] 0.58 %
-<b>SHELL       </b> [#                   ] 0.50 %
+<div class="stdin"><span class="ps1-path">exersalza@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [##################  ] 87.09%
+<b>LUA         </b> [##                  ] 6.79 %
+<b>RUBY        </b> [#                   ] 1.88 %
+<b>C#          </b> [#                   ] 1.72 %
+<b>HTML        </b> [#                   ] 1.40 %
+<b>CSS         </b> [#                   ] 0.57 %
+<b>SHELL       </b> [#                   ] 0.49 %
 <b>JAVASCRIPT  </b> [#                   ] 0.06 %
-<b>C           </b> [#                   ] 0.03 %
 </div>
 
 
-<footer>Connection reset by 54.22.177.13</footer></pre>
+<footer>Connection reset by 209.53.20.246</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
